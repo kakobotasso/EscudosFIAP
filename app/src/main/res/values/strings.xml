@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">EscudosFIAP</string>
+    <string name="error_busca_lista">Não foi possível carregar as informações. Tente novamente mais tarde</string>
 </resources>
